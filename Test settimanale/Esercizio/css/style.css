@@ -22,17 +22,26 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-family: "Montserrat", sans-serif;
   color: rgb(36, 164, 198);
 }
 
+h3 {
+  font-size: 2rem;
+  padding: 2rem;
+  font-weight: bolder;
+}
 header {
   padding: 3rem;
   background: black;
   text-align: center;
 }
 
+h6 {
+  font-style: italic;
+  font-size: x-small;
+}
 p {
   font-family: "Open Sans", sans-serif;
 }
